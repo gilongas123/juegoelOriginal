@@ -1,7 +1,7 @@
 {
-    "name": "BANG BANG",
-    "short_name": "BANG BANG",
-    "start_url":  "index.html",
+    "name": "Bang Bang",
+    "short_name": "Bang Bang",
+    "start_url":  "Index.html",
     "display": "standalone",
     "background_color": "ff88ff",
     "lang": "es",
